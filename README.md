@@ -13,7 +13,7 @@ Data visualization: Charts and graphs, Dashboards, Advanced skills, Power Query)
 
 -SQL: (My SQL)
 
-## 🔗GOALS 
+## 🔗GOALS 🗺
 ---
 - Mastering Data visualization Tools and Technique (POWER BI)
 - Advancement on data preparation, Continuous learning/ improving, acurate Story telling abilities
