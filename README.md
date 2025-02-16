@@ -1,11 +1,15 @@
-# ABOUT ME
-Hello! I'm Bashirah Abdulwaheed😊. A data Analyst in action, Financial and Business Enthusiast, a Statistician who is passionate about data and is willing to explore data through actionable insights. While exploring experience across finance, businesss and sales, I am willing to unlock growth and solve challenges. 
+🔗ABOUT ME
+Hello! I'm Bashirah Omolola Abdulwaheed😊. A graduate of statistics highly motivated and detailed-oriented with a good foundation in statistical analysis and mathematics. Proficient in utilizing analytical tools in utilizing analytical tools to drive data-driven insights, with a focus on informing financial and business decisions.
 
+🔗TECHNICAL SKILLS
+-Microsoft Excel: 
+(Data Mangement: Data-entry,bData-validation, Data-cleaning,
+Data Analysis: Formulas and functions, PivotTables, conditional Formating,
+Data visualization: Charts and graphs, Dashboards, Advanced skills, Power Query)
 
-## SKILLS
-I am a Data Analyst in view with experience on Ms Excel, SQL and still developing...
+-SQL: (My SQL)
 
-## MY PROJECTS
-In progress...
-
-
+🔗GOALS
+- Mastering Data visualization Tools and Technique (POWER BI)
+- Advancement on data preparation, Continuous learning/ improving, acurate Story telling abilities
+- Unlocking insights at the intersection of finance, business and technology
