@@ -1,6 +1,8 @@
+Hello! I'm Bashirah Omolola Abdulwaheed😊. A statistics graduate delving into tech and also a financial and business enthusiast.
+
 ## 🔗ABOUT ME
 ---
-Hello! I'm Bashirah Omolola Abdulwaheed😊. A graduate of statistics highly motivated and detailed-oriented with a good foundation in statistical analysis and mathematics. Proficient in utilizing analytical tools in utilizing analytical tools to drive data-driven insights, with a focus on informing financial and business decisions.
+ A graduate of statistics highly motivated and detailed-oriented with a good foundation in statistical analysis and mathematics. Proficient in utilizing analytical tools in utilizing analytical tools to drive data-driven insights, with a focus on informing financial and business decisions.
 
 ## 🔗TECHNICAL SKILLS
 ---
